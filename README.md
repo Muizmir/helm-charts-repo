@@ -1,2 +1,2 @@
 # helm-charts-repo
-helm repo
+helm repo for my charts
